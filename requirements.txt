@@ -5,7 +5,7 @@ attrs==19.1.0
 certifi==2019.6.16
 enum34==1.1.6
 importlib-metadata==0.18
-lxml==4.3.4
+lxml==4.6.2
 more-itertools==7.0.0
 namedlist==1.7
 packaging==19.0
